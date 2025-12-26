@@ -1,13 +1,17 @@
 # Node
 node_modules/
 dist/
-.env
+frontend/.env
 
 # Python
 venv/
 __pycache__/
 *.pyc
-.env
+backend/.env
 
 # MacOS
 .DS_Store
+
+# Brain/Artifacts
+.gemini/
+brain/
